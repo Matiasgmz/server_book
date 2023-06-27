@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "titre": "To Kill a Mockingbird ",
+    "auteur": "Harper Lee & Matias",
+    "prix": "13.99",
+    "description": "To Kill a Mockingbird is a novel by Harper Lee published in 1960. It is a classic of modern American literature."
+  },
+  {
+    "id": 2,
+    "titre": "1984 #THEBEST",
+    "auteur": "George Orwell",
+    "prix": 10.99,
+    "description": "1984 is a dystopian novel by George Orwell published in 1949. It depicts a society under total surveillance and control."
+  },
+  {
+    "id": 3,
+    "titre": "Pride and Prejudice",
+    "auteur": "Jane Austen",
+    "prix": 9.99,
+    "description": "Pride and Prejudice is a romantic novel by Jane Austen published in 1813. It explores themes of love, class, and societal expectations."
+  },
+  {
+    "id": 4,
+    "titre": "The Great Gatsby",
+    "auteur": "F. Scott Fitzgerald",
+    "prix": 11.49,
+    "description": "The Great Gatsby is a novel by F. Scott Fitzgerald published in 1925. It portrays the decadence and disillusionment of the American Dream."
+  },
+  {
+    "id": 5,
+    "titre": "To Kill a Mockingbird",
+    "auteur": "Harper Lee",
+    "prix": 12.99,
+    "description": "To Kill a Mockingbird is a novel by Harper Lee published in 1960. It is a classic of modern American literature."
+  },
+  {
+    "id": 6,
+    "titre": "The Catcher in the Rye",
+    "auteur": "J.D. Salinger",
+    "prix": 10.99,
+    "description": "The Catcher in the Rye is a novel by J.D. Salinger published in 1951. It follows the story of Holden Caulfield, a disillusioned teenager."
+  },
+  {
+    "id": 7,
+    "titre": "To Kill a Mockingbird",
+    "auteur": "Harper Lee",
+    "prix": 12.99,
+    "description": "To Kill a Mockingbird is a novel by Harper Lee published in 1960. It is a classic of modern American literature."
+  },
+  {
+    "id": 8,
+    "titre": "The Lord of the Rings",
+    "auteur": "J.R.R. Tolkien",
+    "prix": 14.99,
+    "description": "The Lord of the Rings is an epic fantasy novel by J.R.R. Tolkien published in three volumes between 1954 and 1955."
+  },
+  {
+    "id": 9,
+    "titre": "To Kill a Mockingbird",
+    "auteur": "Harper Lee",
+    "prix": 12.99,
+    "description": "To Kill a Mockingbird is a novel by Harper Lee published in 1960. It is a classic of modern American literature."
+  },
+  {
+    "id": 10,
+    "titre": "Jane Eyre",
+    "auteur": "Charlotte Brontë",
+    "prix": 9.99,
+    "description": "Jane Eyre is a novel by Charlotte Brontë published in 1847. It follows the story of a young governess and her journey to independence."
+  },
+  {
+    "id": 11,
+    "titre": "To Kill a Mockingbird",
+    "auteur": "Harper Lee",
+    "prix": 12.99,
+    "description": "To Kill a Mockingbird is a novel by Harper Lee published in 1960. It is a classic of modern American literature."
+  },
+  {
+    "id": 12,
+    "titre": "The Hobbit",
+    "auteur": "J.R.R. Tolkien",
+    "prix": 11.49,
+    "description": "The Hobbit, or There and Back Again, is a fantasy novel by J.R.R. Tolkien published in 1937. It is a prelude to The Lord of the Rings."
+  },
+  {
+    "id": 13,
+    "titre": "To Kill a Mockingbird",
+    "auteur": "Harper Lee",
+    "prix": 12.99,
+    "description": "To Kill a Mockingbird is a novel by Harper Lee published in 1960. It is a classic of modern American literature."
+  },
+  {
+    "id": 14,
+    "titre": "Moby-Dick",
+    "auteur": "Herman Melville",
+    "prix": 13.99,
+    "description": "Moby-Dick; or, The Whale is an epic novel by Herman Melville published in 1851. It tells the story of Captain Ahab's quest for revenge."
+  },
+  {
+    "id": 17,
+    "titre": "To Kill a Mockingbird",
+    "auteur": "Harper Lee",
+    "prix": 12.99,
+    "description": "To Kill a Mockingbird is a novel by Harper Lee published in 1960. It is a classic of modern American literature."
+  },
+  {
+    "id": 18,
+    "titre": "The Brothers Karamazov",
+    "auteur": "Fyodor Dostoevsky",
+    "prix": 13.99,
+    "description": "The Brothers Karamazov is a novel by Fyodor Dostoevsky published in 1880. It explores themes of spirituality, morality, and the nature of evil."
+  },
+  {
+    "id": 19,
+    "titre": "To Kill a Mockingbird",
+    "auteur": "Harper Lee",
+    "prix": 12.99,
+    "description": "To Kill a Mockingbird is a novel by Harper Lee published in 1960. It is a classic of modern American literature."
+  }
+]
