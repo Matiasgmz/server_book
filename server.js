@@ -29,28 +29,35 @@ app.get('/book/:id', (req, res) => {
 app.get('/book/title/:title', (req, res) => {
     const title = req.params.title;
     const theBook = librairie.find((livre) => livre.titre === title);
-  
+
     if (theBook) {
-      res.status(200).json(theBook);
+        res.status(200).json(theBook);
     } else {
-      res.status(404).json({ error: 'Livre non trouvé' });
+        res.status(404).json({ error: 'Livre non trouvé' });
     }
 
 })
 
 // post 
 app.post('/book', (req, res) => {
-    librairie.push(req.body)
+    const newBook = req.body;
+
+    const maxId = librairie.reduce((max, book) => (book.id > max ? book.id : max), 0);
+
+    newBook.id = maxId + 1;
+
+    librairie.push(newBook);
 
     fs.writeFile('./librairie.json', JSON.stringify(librairie, null, 2), (err) => {
         if (err) {
             console.error(err);
-            res.status(500).json({ error: 'Erreur lors de l\'écriture dans le fichier JSON' });
+            res.status(500).json({ error: "Erreur lors de l'écriture dans le fichier JSON" });
         } else {
             res.status(200).json(librairie);
         }
     });
-})
+});
+
 
 // put 
 app.put('/book/:id', (req, res) => {

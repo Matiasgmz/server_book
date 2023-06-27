@@ -1,121 +1,142 @@
 [
   {
     "id": 1,
-    "titre": "To Kill a Mockingbird ",
-    "auteur": "Harper Lee & Matias",
-    "prix": "13.99",
-    "description": "To Kill a Mockingbird is a novel by Harper Lee published in 1960. It is a classic of modern American literature."
+    "titre": "Ne tirez pas sur l'oiseau moqueur --",
+    "auteur": "Harper Lee",
+    "prix": 12.99,
+    "description": "Ne tirez pas sur l'oiseau moqueur est un roman de Harper Lee publié en 1960. C'est un classique de la littérature américaine moderne."
   },
   {
     "id": 2,
-    "titre": "1984 #THEBEST",
+    "titre": "1984",
     "auteur": "George Orwell",
     "prix": 10.99,
-    "description": "1984 is a dystopian novel by George Orwell published in 1949. It depicts a society under total surveillance and control."
+    "description": "1984 est un roman dystopique de George Orwell publié en 1949. Il dépeint une société sous surveillance et contrôle totalitaires."
   },
   {
     "id": 3,
-    "titre": "Pride and Prejudice",
+    "titre": "Orgueil et Préjugés",
     "auteur": "Jane Austen",
     "prix": 9.99,
-    "description": "Pride and Prejudice is a romantic novel by Jane Austen published in 1813. It explores themes of love, class, and societal expectations."
+    "description": "Orgueil et Préjugés est un roman romantique de Jane Austen publié en 1813. Il explore les thèmes de l'amour, de la classe sociale et des attentes sociétales."
   },
   {
     "id": 4,
-    "titre": "The Great Gatsby",
+    "titre": "Gatsby le Magnifique",
     "auteur": "F. Scott Fitzgerald",
     "prix": 11.49,
-    "description": "The Great Gatsby is a novel by F. Scott Fitzgerald published in 1925. It portrays the decadence and disillusionment of the American Dream."
-  },
-  {
-    "id": 5,
-    "titre": "To Kill a Mockingbird",
-    "auteur": "Harper Lee",
-    "prix": 12.99,
-    "description": "To Kill a Mockingbird is a novel by Harper Lee published in 1960. It is a classic of modern American literature."
+    "description": "Gatsby le Magnifique est un roman de F. Scott Fitzgerald publié en 1925. Il dépeint la décadence et la désillusion du rêve américain."
   },
   {
     "id": 6,
-    "titre": "The Catcher in the Rye",
-    "auteur": "J.D. Salinger",
+    "titre": "Le Vieil Homme et la Mer",
+    "auteur": "Ernest Hemingway",
     "prix": 10.99,
-    "description": "The Catcher in the Rye is a novel by J.D. Salinger published in 1951. It follows the story of Holden Caulfield, a disillusioned teenager."
+    "description": "Le Vieil Homme et la Mer est un roman d'Ernest Hemingway publié en 1952. Il raconte l'histoire d'un vieux pêcheur et de sa lutte contre un énorme poisson."
   },
   {
     "id": 7,
-    "titre": "To Kill a Mockingbird",
-    "auteur": "Harper Lee",
+    "titre": "Les Misérables",
+    "auteur": "Victor Hugo",
     "prix": 12.99,
-    "description": "To Kill a Mockingbird is a novel by Harper Lee published in 1960. It is a classic of modern American literature."
+    "description": "Les Misérables est un roman de Victor Hugo publié en 1862. Il suit la vie de plusieurs personnages dans la France du XIXe siècle."
   },
   {
     "id": 8,
-    "titre": "The Lord of the Rings",
-    "auteur": "J.R.R. Tolkien",
-    "prix": 14.99,
-    "description": "The Lord of the Rings is an epic fantasy novel by J.R.R. Tolkien published in three volumes between 1954 and 1955."
+    "titre": "Le Petit Prince",
+    "auteur": "Antoine de Saint-Exupéry",
+    "prix": 9.99,
+    "description": "Le Petit Prince est un conte philosophique d'Antoine de Saint-Exupéry publié en 1943. Il aborde des thèmes tels que l'amitié, l'amour et la quête de sens."
   },
   {
     "id": 9,
-    "titre": "To Kill a Mockingbird",
-    "auteur": "Harper Lee",
+    "titre": "Vingt mille lieues sous les mers",
+    "auteur": "Jules Verne",
     "prix": 12.99,
-    "description": "To Kill a Mockingbird is a novel by Harper Lee published in 1960. It is a classic of modern American literature."
+    "description": "Vingt mille lieues sous les mers est un roman de Jules Verne publié en 1870. Il relate les aventures du capitaine Nemo à bord du sous-marin Nautilus."
   },
   {
     "id": 10,
-    "titre": "Jane Eyre",
-    "auteur": "Charlotte Brontë",
-    "prix": 9.99,
-    "description": "Jane Eyre is a novel by Charlotte Brontë published in 1847. It follows the story of a young governess and her journey to independence."
+    "titre": "Le Comte de Monte-Cristo",
+    "auteur": "Alexandre Dumas",
+    "prix": 13.99,
+    "description": "Le Comte de Monte-Cristo est un roman d'Alexandre Dumas publié en 1844. Il raconte l'histoire d'Edmond Dantès en quête de vengeance."
   },
   {
     "id": 11,
-    "titre": "To Kill a Mockingbird",
-    "auteur": "Harper Lee",
-    "prix": 12.99,
-    "description": "To Kill a Mockingbird is a novel by Harper Lee published in 1960. It is a classic of modern American literature."
+    "titre": "Le Rouge et le Noir",
+    "auteur": "Stendhal",
+    "prix": 10.99,
+    "description": "Le Rouge et le Noir est un roman de Stendhal publié en 1830. Il met en scène Julien Sorel, un jeune homme ambitieux luttant pour s'élever dans la société."
   },
   {
     "id": 12,
-    "titre": "The Hobbit",
-    "auteur": "J.R.R. Tolkien",
+    "titre": "Les Trois Mousquetaires",
+    "auteur": "Alexandre Dumas",
     "prix": 11.49,
-    "description": "The Hobbit, or There and Back Again, is a fantasy novel by J.R.R. Tolkien published in 1937. It is a prelude to The Lord of the Rings."
+    "description": "Les Trois Mousquetaires est un roman d'Alexandre Dumas publié en 1844. Il relate les aventures d'Athos, Porthos, Aramis et d'Artagnan dans la France du XVIIe siècle."
   },
   {
     "id": 13,
-    "titre": "To Kill a Mockingbird",
-    "auteur": "Harper Lee",
+    "titre": "Le Fantôme de l'Opéra",
+    "auteur": "Gaston Leroux",
     "prix": 12.99,
-    "description": "To Kill a Mockingbird is a novel by Harper Lee published in 1960. It is a classic of modern American literature."
+    "description": "Le Fantôme de l'Opéra est un roman de Gaston Leroux publié en 1910. Il raconte l'histoire d'un mystérieux fantôme hantant l'Opéra Garnier à Paris."
   },
   {
     "id": 14,
-    "titre": "Moby-Dick",
-    "auteur": "Herman Melville",
+    "titre": "Les Fleurs du Mal",
+    "auteur": "Charles Baudelaire",
     "prix": 13.99,
-    "description": "Moby-Dick; or, The Whale is an epic novel by Herman Melville published in 1851. It tells the story of Captain Ahab's quest for revenge."
+    "description": "Les Fleurs du Mal est un recueil de poèmes de Charles Baudelaire publié en 1857. Il explore les thèmes de la beauté, de la sensualité et de la mortalité."
+  },
+  {
+    "id": 15,
+    "titre": "Madame Bovary",
+    "auteur": "Gustave Flaubert",
+    "prix": 12.99,
+    "description": "Madame Bovary est un roman de Gustave Flaubert publié en 1856. Il raconte l'histoire d'Emma Bovary, une femme insatisfaite de sa vie conjugale."
+  },
+  {
+    "id": 16,
+    "titre": "Les Quatre Filles du docteur March",
+    "auteur": "Louisa May Alcott",
+    "prix": 9.99,
+    "description": "Les Quatre Filles du docteur March est un roman de Louisa May Alcott publié en 1868. Il suit les vies des sœurs March pendant la Guerre de Sécession."
   },
   {
     "id": 17,
-    "titre": "To Kill a Mockingbird",
-    "auteur": "Harper Lee",
+    "titre": "Le Père Goriot",
+    "auteur": "Honoré de Balzac",
     "prix": 12.99,
-    "description": "To Kill a Mockingbird is a novel by Harper Lee published in 1960. It is a classic of modern American literature."
+    "description": "Le Père Goriot est un roman d'Honoré de Balzac publié en 1835. Il met en scène le personnage de Père Goriot, un homme sacrifiant tout pour ses filles."
   },
   {
     "id": 18,
-    "titre": "The Brothers Karamazov",
-    "auteur": "Fyodor Dostoevsky",
-    "prix": 13.99,
-    "description": "The Brothers Karamazov is a novel by Fyodor Dostoevsky published in 1880. It explores themes of spirituality, morality, and the nature of evil."
+    "titre": "Bel-Ami",
+    "auteur": "Guy de Maupassant",
+    "prix": 11.49,
+    "description": "Bel-Ami est un roman de Guy de Maupassant publié en 1885. Il raconte l'ascension sociale de Georges Duroy dans le Paris de la fin du XIXe siècle."
   },
   {
     "id": 19,
-    "titre": "To Kill a Mockingbird",
-    "auteur": "Harper Lee",
+    "titre": "Le Tour du monde en quatre-vingts jours",
+    "auteur": "Jules Verne",
     "prix": 12.99,
-    "description": "To Kill a Mockingbird is a novel by Harper Lee published in 1960. It is a classic of modern American literature."
+    "description": "Le Tour du monde en quatre-vingts jours est un roman de Jules Verne publié en 1873. Il suit les aventures de Phileas Fogg dans son voyage autour du monde."
+  },
+  {
+    "id": 20,
+    "titre": "Les Misérables",
+    "auteur": "Victor Hugo & Matias",
+    "prix": 12.99,
+    "description": "Les Misérables est un roman de Victor Hugo publié en 1862. Il suit la vie de plusieurs personnages dans la France du XIXe siècle."
+  },
+  {
+    "titre": "test",
+    "description": "sdhgfhzr",
+    "auteur": "test",
+    "prix": "100",
+    "id": 21
   }
 ]
